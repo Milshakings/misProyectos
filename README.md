@@ -1,6 +1,24 @@
-# misProyectos
-En este desafio realizamos un desafio de Portafolio usando Rails
+# README
 
-1. Se hacen las carpetas /home /projects y /contact
-2. Se coloca como root /home
-3. Se crea una página principal usando un NavBar, cada una de las pestañas con link_to para las paginas de la carpeta app/views
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
